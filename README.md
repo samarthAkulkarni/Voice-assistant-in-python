@@ -3,8 +3,6 @@
 <h1>Voice assistant</h1>
 <p>A simple voice assistant written in python using wikipedia</p>
 
-<h4> <span> · </span> <a href="https://github.com/Samarth A Kulkarni/Voice assistant in python/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Samarth A Kulkarni/Voice assistant in python/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Samarth A Kulkarni/Voice assistant in python/issues"> Request Feature </a> </h4>
-
 
 </div>
 
